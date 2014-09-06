@@ -1,6 +1,6 @@
 /*************************************************************************
- * Simple digital clock, using MicroVIew and 
- * and DS1302 library.
+ * Simple digital clock, using MicroView
+ * and DS1302 library (http://www.henningkarlsen.com/electronics/library.php?id=5)
  * Code is stored on https://codebender.cc/sketch:47681 and https://github.com/pavelsuk/MicroViewClock
  * See the project page for HW and SW instructions: 
  * 	https://samepage.io/app/#!/8740458cffb7c86971911d5f12e1e2291de7f7b7/page-132750646494497742-microview-clock
