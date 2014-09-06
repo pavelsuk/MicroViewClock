@@ -9,7 +9,7 @@ Simple digital clock based on MicroView and DS1302
 ![Breadboard](/doc/schema_bb.png) 
 ![Schema](/doc/schema_schem.png) 
 
-- 
+ 
 ### Content
 - /sketch: code for MicroView. 
 - /doc: documentation, including schema in Fritzing.
