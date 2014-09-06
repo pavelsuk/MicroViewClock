@@ -12,9 +12,6 @@ Simple digital clock based on MicroView and DS1302
 
 
 - /doc: documentation, including schema in Fritzing.
-The code is forked from https://codebender.cc/sketch:41433. <br>
-Modified only to display the date and time on MicroView.<br>
-You can also find it on [Codebender](https://codebender.cc/sketch:47544)
  
 ![Photo](/doc/breadboard.png) 
 ![Breadboard](/doc/schema_bb.png) 
